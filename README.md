@@ -1,2 +1,3 @@
 # Introduction
-This repository contains small python tasks in order to strengthen the recently learning from the lecture 'Multivariate Verfahren' in summer 2022.
+This repository contains small python exercises in order to strengthen the recently learned 
+from the lecture 'Multivariate Verfahren' in the summer semester 2022.
