@@ -2,8 +2,6 @@
 This repository contains small python exercises in order to strengthen the recently learned 
 from the lecture 'Multivariate Verfahren' in the summer semester 2022 @ KIT.
 
-_________
-
 ## Topics:
 The lecture covers multiple topics, such as 
 - Basic Linear Algebra
